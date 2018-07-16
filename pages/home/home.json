@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "自定义弹窗",
+  "usingComponents": {
+    "zy-modal": "../../component/zy-modal/zy-modal"
+  }
+}
